@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "title": "课程1",
+    "cover": "http://homecare-server-app.oss-cn-shanghai.aliyuncs.com/egg-edu-demo/5e095e6caa941a59e466.png",
+    "description": "化学基础1",
+    "price": "1.00",
+    "t_price": "2.00",
+    "school_id": 960,
+    "status": 1,
+    "sub_count": 0,
+    "is_single": 1,
+    "created_time": "2022-03-23T12:58:43.000Z",
+    "updated_time": "2022-03-23T12:58:43.000Z",
+    "chapters": [
+      {
+        "id": 6,
+        "number": 1,
+        "title": "引言",
+        "cover": "",
+        "description": "第一章介绍了。。。。。",
+        "lesson_id": 1,
+        "created_time": "2022-03-26T03:18:49.000Z",
+        "updated_time": "2022-03-26T03:18:49.000Z",
+        "lessonId": 1,
+        "sections": [
+          {
+            "id": 1,
+            "number": 1,
+            "title": "第一节",
+            "cover": "",
+            "description": "哈哈哈",
+            "content": "https://homecare-server-app.oss-cn-shanghai.aliyuncs.com/egg-edu-demo/17bfff60a172edade0af.mp4?versionId=CAEQMRiBgMCHtbOj.BciIDgxYjFjNGU5Yjk2MTQzYzFiY2U3ZDE4NmE2ZGY2YjA3",
+            "type": "",
+            "chapter_id": 6,
+            "try": 1,
+            "created_time": "2022-03-26T03:24:58.000Z",
+            "updated_time": "2022-03-26T03:25:01.000Z",
+            "chapterId": 6
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "number": 2,
+        "title": "第二章",
+        "cover": "",
+        "description": "士大夫士大夫士大夫",
+        "lesson_id": 1,
+        "created_time": "2022-03-26T08:43:49.000Z",
+        "updated_time": "2022-03-26T08:43:49.000Z",
+        "lessonId": 1,
+        "sections": [
+          {
+            "id": 4,
+            "number": 3,
+            "title": "第二章第三节",
+            "cover": "",
+            "description": "手动阀手动阀",
+            "content": "http://homecare-server-app.oss-cn-shanghai.aliyuncs.com/egg-edu-demo/b2066cd2c1e036644d9c.mp4",
+            "type": "",
+            "chapter_id": 7,
+            "try": 1,
+            "created_time": "2022-03-26T10:27:36.000Z",
+            "updated_time": "2022-03-26T10:27:36.000Z",
+            "chapterId": 7
+          },
+          {
+            "id": 3,
+            "number": 1,
+            "title": "第二章第一节",
+            "cover": "",
+            "description": "士大夫大师傅",
+            "content": "http://homecare-server-app.oss-cn-shanghai.aliyuncs.com/egg-edu-demo/3373c1880e1409778ce0.mp4",
+            "type": "",
+            "chapter_id": 7,
+            "try": 1,
+            "created_time": "2022-03-26T10:24:40.000Z",
+            "updated_time": "2022-03-26T10:24:40.000Z",
+            "chapterId": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "测试课程2",
+    "cover": "http://homecare-server-app.oss-cn-shanghai.aliyuncs.com/egg-edu-demo/5e095e6caa941a59e466.png",
+    "description": "化学基础2",
+    "price": "4.00",
+    "t_price": "5.00",
+    "school_id": 960,
+    "status": 1,
+    "sub_count": 0,
+    "is_single": 1,
+    "created_time": "2022-03-23T12:58:43.000Z",
+    "updated_time": "2022-03-23T12:58:43.000Z",
+    "chapters": [
+      {
+        "id": 6,
+        "number": 1,
+        "title": "引言",
+        "cover": "",
+        "description": "第一章介绍了。。。。。",
+        "lesson_id": 1,
+        "created_time": "2022-03-26T03:18:49.000Z",
+        "updated_time": "2022-03-26T03:18:49.000Z",
+        "lessonId": 1,
+        "sections": [
+          {
+            "id": 1,
+            "number": 1,
+            "title": "第一节",
+            "cover": "",
+            "description": "第一节介绍了。。。",
+            "content": "https://homecare-server-app.oss-cn-shanghai.aliyuncs.com/egg-edu-demo/17bfff60a172edade0af.mp4?versionId=CAEQMRiBgMCHtbOj.BciIDgxYjFjNGU5Yjk2MTQzYzFiY2U3ZDE4NmE2ZGY2YjA3",
+            "type": "",
+            "chapter_id": 6,
+            "try": 1,
+            "created_time": "2022-03-26T03:24:58.000Z",
+            "updated_time": "2022-03-26T03:25:01.000Z",
+            "chapterId": 6
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "number": 2,
+        "title": "化学分子结构",
+        "cover": "",
+        "description": "本章讲了balabalabala",
+        "lesson_id": 1,
+        "created_time": "2022-03-26T08:43:49.000Z",
+        "updated_time": "2022-03-26T08:43:49.000Z",
+        "lessonId": 1,
+        "sections": [
+          {
+            "id": 4,
+            "number": 2,
+            "title": "第二节",
+            "cover": "",
+            "description": "手动阀手动阀",
+            "content": "http://homecare-server-app.oss-cn-shanghai.aliyuncs.com/egg-edu-demo/b2066cd2c1e036644d9c.mp4",
+            "type": "",
+            "chapter_id": 7,
+            "try": 1,
+            "created_time": "2022-03-26T10:27:36.000Z",
+            "updated_time": "2022-03-26T10:27:36.000Z",
+            "chapterId": 7
+          },
+          {
+            "id": 3,
+            "number": 1,
+            "title": "第一节",
+            "cover": "",
+            "description": "士大夫大师傅",
+            "content": "http://homecare-server-app.oss-cn-shanghai.aliyuncs.com/egg-edu-demo/3373c1880e1409778ce0.mp4",
+            "type": "",
+            "chapter_id": 7,
+            "try": 1,
+            "created_time": "2022-03-26T10:24:40.000Z",
+            "updated_time": "2022-03-26T10:24:40.000Z",
+            "chapterId": 7
+          }
+        ]
+      }
+    ]
+  }
+]
